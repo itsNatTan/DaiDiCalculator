@@ -1,0 +1,19 @@
+{
+  "name": "daidicalculator",
+  "version": "1.0.0",
+  "description": "Calculator for DaiDi (Big 2)",
+  "main": "calculator.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsNatTan/DaiDiCalculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsNatTan/DaiDiCalculator/issues"
+  },
+  "homepage": "https://github.com/itsNatTan/DaiDiCalculator#readme"
+}
